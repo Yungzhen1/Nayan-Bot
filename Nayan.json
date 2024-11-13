@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Zhen",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,17 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Zhen-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61568460278352",
+    "61568460278352"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61568460278352",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61568460278352"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
